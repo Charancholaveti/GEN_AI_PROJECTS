@@ -1,0 +1,14 @@
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain-groq
+pypdf
+langchain-huggingface
+faiss-cpu
+langchain_chroma
+chromadb
+arxiv
+wikipedia
+ipykernal
