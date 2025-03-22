@@ -28,7 +28,7 @@ MODEL_NAME=model_name_here
 
 ## Usage
 
-### Run the chatbot
+### Run the code
 ```bash
 python app.py
 ```
