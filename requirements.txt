@@ -11,4 +11,3 @@ langchain_chroma
 chromadb
 arxiv
 wikipedia
-ipykernal
