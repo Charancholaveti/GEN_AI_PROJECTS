@@ -32,5 +32,5 @@ MODEL_NAME=model_name_here
 ```bash
 python app.py
 ```
-Happy building with Generative AI!
+Happy building with Generative AI!!
 
