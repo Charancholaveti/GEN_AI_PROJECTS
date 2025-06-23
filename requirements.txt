@@ -11,3 +11,8 @@ langchain_chroma
 chromadb
 arxiv
 wikipedia
+<<<<<<< HEAD
+=======
+validators==0.28.1
+youtube_transcript_api
+>>>>>>> 709625f (HealthAI)
